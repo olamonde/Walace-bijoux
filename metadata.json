@@ -1,0 +1,6 @@
+{
+  "name": "WALACE SHINE UP BIJOUTERIE",
+  "description": "Boutique officielle de bijoux ICE, montres et accessoires de luxe à Cotonou, Bénin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
